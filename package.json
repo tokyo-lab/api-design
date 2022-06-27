@@ -1,9 +1,8 @@
 {
-  "name": "api-design-v3",
+  "name": "api-design",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Scott Moss <willscottmoss@gmail.com>",
-  "license": "MIT",
+  "author": "tokyo",
   "scripts": {
     "build": "babel src --out-dir dist",
     "test": "NODE_ENV=testing jest --forceExit --detectOpenHandles  --silent",
