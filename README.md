@@ -1,7 +1,6 @@
 # API design in Node.js with Express
 
 - [Resources](#resources)
-- [Course](#course)
 - [Exercises](#excercises)
   - [Hello world Express](#hello-world-express)
   - [Routing](#routing)
